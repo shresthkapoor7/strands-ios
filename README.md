@@ -19,3 +19,15 @@ This iOS app is a SwiftUI-based adaptation of the existing web version of Strand
 | ☁️ Cross-platform Sync         | ❌ Not Yet    | Currently local only, Supabase integration TBD.                      |
 | 🔐 Auth / Onboarding           | ❌ Not Yet    | To be added later.                                                   |
 
+
+<div align="center">
+  
+| Home Screen | Scan Feature | Food Insights |
+|------------|-------------|--------------|
+| <img src="1.PNG" width="250"/> | <img src="2.PNG" width="250"/> | <img src="3.PNG" width="250"/> |
+
+| Micro Workouts | Health Form | Saved Items |
+|-------------|----------------|---------|
+| <img src="4.PNG" width="250"/> | <img src="5.PNG" width="250"/> | <img src="6.PNG" width="250"/> |
+
+</div>
