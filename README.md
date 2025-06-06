@@ -22,12 +22,12 @@ This iOS app is a SwiftUI-based adaptation of the existing web version of Strand
 
 <div align="center">
   
-| Home Screen | Scan Feature | Food Insights |
+| Home Screen | Chats Tab | Settings |
 |------------|-------------|--------------|
-| <img src="1.PNG" width="250"/> | <img src="2.PNG" width="250"/> | <img src="3.PNG" width="250"/> |
+| <img src="2.PNG" width="250"/> | <img src="1.PNG" width="250"/> | <img src="3.PNG" width="250"/> |
 
-| Micro Workouts | Health Form | Saved Items |
+| Chat Screen | Thread Button | Thread Screen |
 |-------------|----------------|---------|
-| <img src="4.PNG" width="250"/> | <img src="5.PNG" width="250"/> | <img src="6.PNG" width="250"/> |
+| <img src="4.PNG" width="250"/> | <img src="6.PNG" width="250"/> | <img src="5.PNG" width="250"/> |
 
 </div>
