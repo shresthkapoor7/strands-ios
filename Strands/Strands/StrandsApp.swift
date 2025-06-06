@@ -11,7 +11,12 @@ import SwiftUI
 struct StrandsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
         }
     }
+}
+
+
+#Preview {
+    MainTabView()
 }
